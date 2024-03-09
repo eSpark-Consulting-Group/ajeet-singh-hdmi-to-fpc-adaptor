@@ -1,0 +1,46 @@
+Board Information Report
+Filename     : C:\Users\XPENDER\Documents\GitHub\ajeetsing-hdmitofpcadaptor\Design_Files\HDMI_To_MIPI.PcbDoc
+Date         : 3/9/2024
+Time         : 3:28:02 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 1952milsx1332mils
+    Components on board, 121
+count : 2
+
+Routing Information
+    Routing completion, 23.80%
+    Connections, 332
+    Connections routed, 79
+    Connections remaining, 253
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 471, 0, 185, 0, 13, 1, 0
+    Bottom Layer, 0, 0, 0, 59, 0, 0, 0, 0
+    Dimensions, 0, 0, 0, 16, 2, 0, 0, 101
+    Board_outline, 0, 0, 0, 4, 0, 0, 0, 0
+    Mechanical 15, 0, 0, 0, 1, 0, 0, 0, 0
+    Multi-Layer, 0, 12, 48, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 6, 0, 0, 679, 267, 4, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 4, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 2, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 15
+
+Drill Pairs, Vias
+count : 0
+
+Layer, Sq.In., Sq.MM., Percent of layer
+    Top Layer, 0.537, 346.738, 21%
+    Bottom Layer, 0.198, 127.62, 8%
+count : 2
+
+Via Solder Mask, Count
+count : 0
