@@ -1,12 +1,12 @@
 Board Information Report
 Filename     : C:\Users\eSpark\Desktop\ajeetsing-hdmitofpcadaptor\Design_Files\PCB_HDMI_To_FPC.PcbDoc
-Date         : 3/13/2024
-Time         : 4:03:58 PM
+Date         : 3/14/2024
+Time         : 3:47:31 PM
 Time Elapsed : 00:00:00
 
 Routing Information
-    Routing completion, 83.14%
+    Routing completion, 99.71%
     Connections, 344
-    Connections routed, 286
-    Connections remaining, 58
+    Connections routed, 343
+    Connections remaining, 1
 count : 4
