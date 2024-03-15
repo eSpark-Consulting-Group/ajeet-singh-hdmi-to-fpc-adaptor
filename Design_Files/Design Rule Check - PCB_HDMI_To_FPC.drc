@@ -1,0 +1,70 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\eSpark\Desktop\ajeetsing-hdmitofpcadaptor\Design_Files\PCB_HDMI_To_FPC.PcbDoc
+Date     : 3/15/2024
+Time     : 2:28:39 PM
+
+Processing Rule : Clearance Constraint (Gap=5mil) (All),(All)
+   Violation between Clearance Constraint: (3.937mil < 4mil) Between Pad U1-1(1747.496mil,1115.024mil) on Top Layer And Pad U1-2(1731.748mil,1115.024mil) on Top Layer 
+   Violation between Clearance Constraint: (3.937mil < 4mil) Between Pad U1-11(1684.504mil,992.976mil) on Top Layer And Pad U1-12(1700.252mil,992.976mil) on Top Layer 
+   Violation between Clearance Constraint: (3.937mil < 4mil) Between Pad U1-13(1716mil,992.976mil) on Top Layer And Pad U1-14(1731.748mil,992.976mil) on Top Layer 
+   Violation between Clearance Constraint: (3.937mil < 4mil) Between Pad U1-14(1731.748mil,992.976mil) on Top Layer And Pad U1-15(1747.496mil,992.976mil) on Top Layer 
+   Violation between Clearance Constraint: (3.937mil < 4mil) Between Pad U1-16(1777.024mil,1022.504mil) on Top Layer And Pad U1-17(1777.024mil,1038.252mil) on Top Layer 
+   Violation between Clearance Constraint: (3.937mil < 4mil) Between Pad U1-17(1777.024mil,1038.252mil) on Top Layer And Pad U1-18(1777.024mil,1054mil) on Top Layer 
+   Violation between Clearance Constraint: (3.937mil < 4mil) Between Pad U1-19(1777.024mil,1069.748mil) on Top Layer And Pad U1-20(1777.024mil,1085.496mil) on Top Layer 
+   Violation between Clearance Constraint: (3.937mil < 4mil) Between Pad U1-2(1731.748mil,1115.024mil) on Top Layer And Pad U1-3(1716mil,1115.024mil) on Top Layer 
+   Violation between Clearance Constraint: (3.937mil < 4mil) Between Pad U1-3(1716mil,1115.024mil) on Top Layer And Pad U1-4(1700.252mil,1115.024mil) on Top Layer 
+   Violation between Clearance Constraint: (3.937mil < 4mil) Between Pad U1-6(1654.976mil,1085.496mil) on Top Layer And Pad U1-7(1654.976mil,1069.748mil) on Top Layer 
+Rule Violations :10
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=4mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=1000mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=1mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=5mil) (InNetClass('HDMI'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=15mil) (InNetClass('MIPI'))
+Rule Violations :0
+
+Processing Rule : Matched Lengths(Tolerance=50mil) (InNetClass('USB'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 10
+Waived Violations : 0
+Time Elapsed        : 00:00:02
