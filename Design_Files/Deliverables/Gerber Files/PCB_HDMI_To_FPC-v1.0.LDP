@@ -1,0 +1,3 @@
+Layer Pairs Export File for PCB: C:\Users\XPENDER\Documents\GitHub\ajeetsing-hdmitofpcadaptor\Design_Files\PCB_HDMI_To_FPC-v1.0.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_hdmi_to_fpc-v1.0-roundholes.txt|DrillLayers=gtl,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=pcb_hdmi_to_fpc-v1.0-slotholes.txt|DrillLayers=gtl,gbl
