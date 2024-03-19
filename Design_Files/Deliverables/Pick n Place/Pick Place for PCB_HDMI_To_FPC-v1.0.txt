@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\XPENDER\Documents\GitHub\ajeetsing-hdmitofpcadaptor\Design_Files\Project Outputs for HDMI_To_FPCadaptor_v1.0\Pick Place for PCB_HDMI_To_FPC-v1.0.txt
+C:\Users\eSpark\Desktop\ajeetsing-hdmitofpcadaptor\Design_Files\Project Outputs for HDMI_To_FPCadaptor_V1.0\Pick Place for PCB_HDMI_To_FPC-v1.0.txt
 
 ========================================================================================================================
 File Design Information:
 
-Date:       16/03/24
-Time:       17:12
-Revision:   Not in VersionControl
+Date:       19/03/24
+Time:       14:39
+Revision:   7f17de1a1c7d0a2fa1ddce60045779c4f8db6f3b
 Variant:    No variations
 Units used: mm
 
@@ -58,7 +58,7 @@ D1         TopLayer 43,2562mm    16,3798mm    90       43,2562mm 16,3798mm 43,25
 D2         TopLayer 13,1375mm    6,6374mm     0        13,1375mm 6,6374mm  12,7000mm 7,6374mm  
 D3         TopLayer 13,1375mm    9,6346mm     0        13,1375mm 9,6346mm  12,7000mm 10,6346mm 
 F1         TopLayer 40,7670mm    16,2052mm    180      40,7670mm 16,2052mm 42,2950mm 16,2052mm 
-FB1        TopLayer 37,2110mm    17,3736mm    90       37,2110mm 17,3736mm 37,2110mm 16,0136mm 
+FB1        TopLayer 37,9222mm    17,3482mm    90       37,9222mm 17,3482mm 37,9222mm 16,6482mm 
 FB2        TopLayer 20,4470mm    7,4676mm     180      20,4470mm 7,4676mm  21,1470mm 7,4676mm  
 FB3        TopLayer 30,9676mm    9,4754mm     0        30,9676mm 9,4754mm  30,2676mm 9,4754mm  
 FB4        TopLayer 27,2958mm    1,6634mm     270      27,2958mm 1,6634mm  27,2958mm 2,3634mm  
